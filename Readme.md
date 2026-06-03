@@ -96,17 +96,17 @@ The model successfully learned resource usage patterns across multiple federated
 | Client 36 | 0.00000083 | 0.00000021 |
 | Client 39 | 0.00000065 | 0.00000029 |
 
-### Client Performance Comparison
+## Client Performance Comparison
 
-![Client Performance Comparison](images/client_comparison.png)
+![Client Performance Comparison](images/clientwise_comparision.png)
 
-### CPU Usage Forecasting
+## CPU Usage Forecasting
 
-![CPU Usage Forecasting](images/cpu_prediction.png)
+![CPU Usage Forecasting](images/cpu_prediction_client2.png)
 
-### Memory Usage Forecasting
+## Memory Usage Forecasting
 
-![Memory Usage Forecasting](images/memory_prediction.png)
+![Memory Usage Forecasting](images/memory_prediction_client2.png)
 
 ---
 
