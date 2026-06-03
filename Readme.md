@@ -41,10 +41,7 @@ The dataset contains task-level resource utilization logs collected from product
 
 ## Project Pipeline
 
-
-```markdown
-(images/pipeline.png)
-```
+![Project Pipeline](images/pipeline.png)
 
 ---
 
@@ -101,25 +98,15 @@ The model successfully learned resource usage patterns across multiple federated
 
 ### Client Performance Comparison
 
-
-```markdown
 ![Client Performance Comparison](images/client_comparison.png)
-```
 
 ### CPU Usage Forecasting
 
-
-
-```markdown
 ![CPU Usage Forecasting](images/cpu_prediction.png)
-```
 
 ### Memory Usage Forecasting
 
-
-```markdown
 ![Memory Usage Forecasting](images/memory_prediction.png)
-```
 
 ---
 
@@ -187,6 +174,6 @@ FedAQUILLA.ipynb
 
 ## Author
 
-Madhusudhan
+**Madhusudhan**
 
 Data Science | Machine Learning | Federated Learning | Deep Learning
